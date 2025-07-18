@@ -31,7 +31,10 @@ Sample Interaction**
 
 **📌 Tech Stack**
 LLM: Google Gemini via langchain-google-genai
+
 Framework: LangChain (agent, tools, memory)
+
 UI: Gradio (Colab-compatible)
+
 Others: Pydantic, dotenv
 
