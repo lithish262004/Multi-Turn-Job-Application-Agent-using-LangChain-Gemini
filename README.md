@@ -22,8 +22,8 @@ from getpass import getpass
 os.environ["GOOGLE_API_KEY"] = getpass("Enter your Google GenerativeAI API Key: ")
 
 **3.Run the Gradio App**
-
-** Sample Interaction**
+**
+Sample Interaction**
 👤 User: I want to apply for a Backend Developer role.
 🤖 Agent: Great! Tell me about your experience, skills, and education.
 👤 User: I have 2 years of experience in Django, and I studied B.Tech in IT.
